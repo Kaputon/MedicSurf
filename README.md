@@ -6,7 +6,7 @@ Medic Surf Practice allows you to spawn an entity orb that shoots rockets at you
 
 * *set_origin* - Places the orb where you are located. Use noclip to place it in the air.
 
-* *fire_rocket* - Fires a single rocket. If you want to do this manually, I'd suggest [bind <key> "fire_rocket"].
+* *fire_rocket* - Fires a single rocket. If you want to do this manually, I'd suggest [bind *key* "fire_rocket"].
 
 * *ms_auto_shoot* [0/1 **OR** false/true] - Toggles whether or not the orb fires manually or automatically.
 
