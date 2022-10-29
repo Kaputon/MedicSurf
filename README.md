@@ -13,3 +13,7 @@ Medic Surf Practice allows you to spawn an entity orb that shoots rockets at you
 * *ms_random_speed* [0/1 **OR** false/true] - 0 for false, 1 for true. Alters the rockets projectile speed.
 
 * *ms_rocket_speed* [Hammer Units] - If random speed is off, sets each rockets speed to the hammer unit you put in. (For reference, the stock moves at 1100.00 HU/s)
+
+# Setting Up
+
+Place the *.sp* file into `./addons/sourcemod/scripting` and place the *.smx* file into `./addons/sourcemod/plugins`.
